@@ -1,0 +1,22 @@
+{
+  "name": "mantra",
+  "version": "0.0.1",
+  "description": "framwork with minimal JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashgohil/mantra.git"
+  },
+  "keywords": [
+    "Mantra"
+  ],
+  "author": "Kashyap Gohil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kashgohil/mantra/issues"
+  },
+  "homepage": "https://github.com/kashgohil/mantra#readme"
+}
