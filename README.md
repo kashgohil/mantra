@@ -1,2 +1,2 @@
 # mantra
-framework with minimal JS
+libraries and frameworks
